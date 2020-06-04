@@ -1,5 +1,5 @@
 view: signup {
-  sql_table_name: SHOPIFY.signup_view ;;
+  sql_table_name: SEGMENT_PROD.STUDIO_PRODUCTION.signed_up ;;
 
   dimension: id {
     primary_key: yes

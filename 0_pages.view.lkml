@@ -1,5 +1,5 @@
 view: pages {
-  sql_table_name: SHOPIFY.pages ;;
+  sql_table_name: SEGMENT_PROD.STUDIO_PRODUCTION.pages ;;
 
   dimension: id {
     primary_key: yes

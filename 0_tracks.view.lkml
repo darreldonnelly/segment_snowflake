@@ -1,5 +1,5 @@
 view: tracks {
-  sql_table_name: SHOPIFY.tracks ;;
+  sql_table_name: SEGMENT_PROD.STUDIO_PRODUCTION.tracks ;;
 
   dimension: id {
     primary_key: yes

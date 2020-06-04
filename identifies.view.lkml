@@ -1,5 +1,5 @@
 view: identifies {
-  sql_table_name: SHOPIFY.identifies_view ;;
+  sql_table_name: SEGMENT_PROD.STUDIO_PRODUCTION.identifies ;;
 
   dimension: id {
     primary_key: yes
